@@ -75,3 +75,13 @@ ul li a{
 .btn:hover {
     opacity: 0.8;
 }
+
+footer {
+    padding: 40px 0;
+    background-color: #efecec;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
