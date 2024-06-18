@@ -29,6 +29,11 @@ header {
     background-color: #fff;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .header-content {
     display: flex;
     justify-content: space-between;
