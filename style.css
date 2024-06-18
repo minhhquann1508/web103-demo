@@ -130,3 +130,33 @@ footer {
     justify-content: space-between;
     align-items: center;
 }
+
+.account-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 520px;
+    padding: 40px 0;
+}
+
+form {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.form-control {
+    margin:0 0 16px;
+}
+
+.form-control input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-top: 8px;
+}
+
+.form-control button {
+    width: 100%;
+}
